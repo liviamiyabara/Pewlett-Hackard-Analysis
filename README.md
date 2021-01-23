@@ -5,7 +5,7 @@ Week 7, module Employee Database with SQL
 
 Pewlett-Hackard is a large established company with thousands of employees, its ‘baby-boomers’ began to retire at a fast rate, so the company needs to understand how many employees will be eligible for the retirement packages and identify which positions will need to be filled in as the number of upcoming retirements will leave thousands of jobs opened.
 
-Bobby, the HR analysis, needs help to perform an employee research to find out who will be retiring soon and how many positions Pewlett-Hackard will need to fill. The employee information is only available in 6 csv files, so this will be a good opportunity to move away from excel/VBA and transition to SQL in order to improve data gathering, consolidation and analysis.
+Bobby, the HR analyst, needs help to perform an employee research to find out who will be retiring soon and how many positions Pewlett-Hackard will need to fill. The employee information is only available in 6 csv files, so this will be a good opportunity to move away from excel/VBA and transition to SQL in order to improve data gathering, consolidation and analysis.
 
 
 
