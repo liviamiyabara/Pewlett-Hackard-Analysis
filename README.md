@@ -22,6 +22,7 @@ Bobby, the HR analyst, needs help to perform an employee research to find out wh
 
 
 Table: Number of retirement-age employees by most recent job title. 
+
 ![ScreenShot](https://github.com/liviamiyabara/Pewlett-Hackard-Analysis/blob/main/Analysis-Projects/Resources/retiring_titles_image.png)
 
 ## Summary
