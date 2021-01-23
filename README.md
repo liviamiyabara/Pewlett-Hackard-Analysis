@@ -22,9 +22,7 @@ Bobby, the HR analyst, needs help to perform an employee research to find out wh
 
 
 Table: Number of retirement-age employees by most recent job title. 
-    
-       ![ScreenShot](https://github.com/liviamiyabara/Pewlett-Hackard-Analysis/blob/main/Analysis-Projects/Resources/retiring_titles_image.png)
-
+![ScreenShot](https://github.com/liviamiyabara/Pewlett-Hackard-Analysis/blob/main/Analysis-Projects/Resources/retiring_titles_image.png)
 
 ## Summary
 #### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
